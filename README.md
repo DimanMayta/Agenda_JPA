@@ -2,4 +2,4 @@
 
 ![Captura2](https://github.com/DimanMayta/Agenda_JPA/assets/165101845/3d9ef8d3-cb1c-41e1-96db-b8c6e9703c29)
 
-![Captura3](https://github.com/DimanMayta/Agenda_JPA/assets/165101845/84dda43e-4cb0-4155-a454-4b0e8e4b802a)
+![Captura4](https://github.com/DimanMayta/Agenda_JPA/assets/165101845/ff73075d-8fcc-4ec4-ab75-86ecbc4f3aef)
